@@ -1,1 +1,1 @@
-# spotify-imersao
+Eu tive uma ótima experiência desenvolvendo todo o meu código front-end para esta página do Spotify. Utilizei HTML para estruturar a página, CSS para estilizar a interface, JavaScript para adicionar interatividade e funcionalidades, e outras tecnologias necessárias. Desenvolver essa página foi um excelente aprendizado e estou orgulhoso do resultado final.
