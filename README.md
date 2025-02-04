@@ -15,11 +15,11 @@ Utilizei HTML para estruturar a página, CSS para estilizar a interface, JavaScr
  ├── README.md          # Documentação do projeto
 
 # 🎯 Funcionalidades
-✅ Sidebar com menu de navegação 
-✅ Busca dinâmica de músicas e playlists 
-✅ Interface responsiva inspirada no Spotify 
-✅ API em Node.js para fornecer dados 
-✅ Cards interativos com playlists e artistas
+-✅ Sidebar com menu de navegação 
+-✅ Busca dinâmica de músicas e playlists 
+-✅ Interface responsiva inspirada no Spotify 
+-✅ API em Node.js para fornecer dados 
+-✅ Cards interativos com playlists e artistas
 
 # 🌟 Melhorias Futuras
 🔹 Integração com a API do Spotify
