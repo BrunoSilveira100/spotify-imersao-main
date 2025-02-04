@@ -5,7 +5,16 @@ Utilizei HTML para estruturar a página, CSS para estilizar a interface, JavaScr
 
 # 📂 Estrutura do Projeto
 
-📂 clone-spotify ├── 📁 assets Ícones, imagens e logos ├── 📁 src Código-fonte principal │ ├── 📁 styles Arquivos CSS │ ├── 📁 scripts Arquivos JavaScript │ ├── 📁 api Código da API Node.js │ └── index.htmlPágina principal ├── package.jsonConfiguração do Node.js ├── server.jsServidor backend em Node.js ├── README.mdDocumentação do projeto
+📂 clone-spotify
+ ├── 📁 assets          **Ícones, imagens e logos**
+ ├── 📁 src             **Código-fonte principal**
+ │   ├── 📁 styles      **Arquivos CSS**
+ │   ├── 📁 scripts     **Arquivos JavaScript**
+ │   ├── 📁 api         **Código da API Node.js**
+ │   └── index.html     **Página principal**
+ ├── package.json       **Configuração do Node.js**
+ ├── server.js          **Servidor backend em Node.js**
+ ├──
 
 # 🎯 Funcionalidades
 
